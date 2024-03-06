@@ -1,3 +1,7 @@
-﻿// See https://aka.ms/new-console-template for more information
-Console.WriteLine("Hello, World!" + (2+2) + "es todo facil");
-Console.WriteLine("los chicos se fueron temprano");
+﻿public class Program
+{
+
+public static void main(String[] args){
+}
+//prueba en casa de que mer acordaba hacer una rama nueva en mi proyectos de git hub 
+}
