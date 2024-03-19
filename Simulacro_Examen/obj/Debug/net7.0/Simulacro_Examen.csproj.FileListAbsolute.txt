@@ -1,0 +1,14 @@
+C:\Programacion3\Simulacro_Examen\bin\Debug\net7.0\Simulacro_Examen.exe
+C:\Programacion3\Simulacro_Examen\bin\Debug\net7.0\Simulacro_Examen.deps.json
+C:\Programacion3\Simulacro_Examen\bin\Debug\net7.0\Simulacro_Examen.runtimeconfig.json
+C:\Programacion3\Simulacro_Examen\bin\Debug\net7.0\Simulacro_Examen.dll
+C:\Programacion3\Simulacro_Examen\bin\Debug\net7.0\Simulacro_Examen.pdb
+C:\Programacion3\Simulacro_Examen\obj\Debug\net7.0\Simulacro_Examen.GeneratedMSBuildEditorConfig.editorconfig
+C:\Programacion3\Simulacro_Examen\obj\Debug\net7.0\Simulacro_Examen.AssemblyInfoInputs.cache
+C:\Programacion3\Simulacro_Examen\obj\Debug\net7.0\Simulacro_Examen.AssemblyInfo.cs
+C:\Programacion3\Simulacro_Examen\obj\Debug\net7.0\Simulacro_Examen.csproj.CoreCompileInputs.cache
+C:\Programacion3\Simulacro_Examen\obj\Debug\net7.0\Simulacro_Examen.dll
+C:\Programacion3\Simulacro_Examen\obj\Debug\net7.0\refint\Simulacro_Examen.dll
+C:\Programacion3\Simulacro_Examen\obj\Debug\net7.0\Simulacro_Examen.pdb
+C:\Programacion3\Simulacro_Examen\obj\Debug\net7.0\Simulacro_Examen.genruntimeconfig.cache
+C:\Programacion3\Simulacro_Examen\obj\Debug\net7.0\ref\Simulacro_Examen.dll

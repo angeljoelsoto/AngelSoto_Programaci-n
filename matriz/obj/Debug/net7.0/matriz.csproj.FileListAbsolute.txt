@@ -1,0 +1,14 @@
+C:\Programacion3\matriz\bin\Debug\net7.0\matriz.exe
+C:\Programacion3\matriz\bin\Debug\net7.0\matriz.deps.json
+C:\Programacion3\matriz\bin\Debug\net7.0\matriz.runtimeconfig.json
+C:\Programacion3\matriz\bin\Debug\net7.0\matriz.dll
+C:\Programacion3\matriz\bin\Debug\net7.0\matriz.pdb
+C:\Programacion3\matriz\obj\Debug\net7.0\matriz.GeneratedMSBuildEditorConfig.editorconfig
+C:\Programacion3\matriz\obj\Debug\net7.0\matriz.AssemblyInfoInputs.cache
+C:\Programacion3\matriz\obj\Debug\net7.0\matriz.AssemblyInfo.cs
+C:\Programacion3\matriz\obj\Debug\net7.0\matriz.csproj.CoreCompileInputs.cache
+C:\Programacion3\matriz\obj\Debug\net7.0\matriz.dll
+C:\Programacion3\matriz\obj\Debug\net7.0\refint\matriz.dll
+C:\Programacion3\matriz\obj\Debug\net7.0\matriz.pdb
+C:\Programacion3\matriz\obj\Debug\net7.0\matriz.genruntimeconfig.cache
+C:\Programacion3\matriz\obj\Debug\net7.0\ref\matriz.dll

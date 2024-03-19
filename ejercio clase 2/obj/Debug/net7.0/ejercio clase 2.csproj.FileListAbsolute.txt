@@ -1,0 +1,14 @@
+C:\Programacion3\ejercio clase 2\bin\Debug\net7.0\ejercio clase 2.exe
+C:\Programacion3\ejercio clase 2\bin\Debug\net7.0\ejercio clase 2.deps.json
+C:\Programacion3\ejercio clase 2\bin\Debug\net7.0\ejercio clase 2.runtimeconfig.json
+C:\Programacion3\ejercio clase 2\bin\Debug\net7.0\ejercio clase 2.dll
+C:\Programacion3\ejercio clase 2\bin\Debug\net7.0\ejercio clase 2.pdb
+C:\Programacion3\ejercio clase 2\obj\Debug\net7.0\ejercio clase 2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Programacion3\ejercio clase 2\obj\Debug\net7.0\ejercio clase 2.AssemblyInfoInputs.cache
+C:\Programacion3\ejercio clase 2\obj\Debug\net7.0\ejercio clase 2.AssemblyInfo.cs
+C:\Programacion3\ejercio clase 2\obj\Debug\net7.0\ejercio clase 2.csproj.CoreCompileInputs.cache
+C:\Programacion3\ejercio clase 2\obj\Debug\net7.0\ejercio clase 2.dll
+C:\Programacion3\ejercio clase 2\obj\Debug\net7.0\refint\ejercio clase 2.dll
+C:\Programacion3\ejercio clase 2\obj\Debug\net7.0\ejercio clase 2.pdb
+C:\Programacion3\ejercio clase 2\obj\Debug\net7.0\ejercio clase 2.genruntimeconfig.cache
+C:\Programacion3\ejercio clase 2\obj\Debug\net7.0\ref\ejercio clase 2.dll
