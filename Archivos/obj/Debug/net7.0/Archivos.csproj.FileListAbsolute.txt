@@ -1,0 +1,14 @@
+C:\UPC\AngelSoto_Programaci-n\Archivos\bin\Debug\net7.0\Archivos.exe
+C:\UPC\AngelSoto_Programaci-n\Archivos\bin\Debug\net7.0\Archivos.deps.json
+C:\UPC\AngelSoto_Programaci-n\Archivos\bin\Debug\net7.0\Archivos.runtimeconfig.json
+C:\UPC\AngelSoto_Programaci-n\Archivos\bin\Debug\net7.0\Archivos.dll
+C:\UPC\AngelSoto_Programaci-n\Archivos\bin\Debug\net7.0\Archivos.pdb
+C:\UPC\AngelSoto_Programaci-n\Archivos\obj\Debug\net7.0\Archivos.GeneratedMSBuildEditorConfig.editorconfig
+C:\UPC\AngelSoto_Programaci-n\Archivos\obj\Debug\net7.0\Archivos.AssemblyInfoInputs.cache
+C:\UPC\AngelSoto_Programaci-n\Archivos\obj\Debug\net7.0\Archivos.AssemblyInfo.cs
+C:\UPC\AngelSoto_Programaci-n\Archivos\obj\Debug\net7.0\Archivos.csproj.CoreCompileInputs.cache
+C:\UPC\AngelSoto_Programaci-n\Archivos\obj\Debug\net7.0\Archivos.dll
+C:\UPC\AngelSoto_Programaci-n\Archivos\obj\Debug\net7.0\refint\Archivos.dll
+C:\UPC\AngelSoto_Programaci-n\Archivos\obj\Debug\net7.0\Archivos.pdb
+C:\UPC\AngelSoto_Programaci-n\Archivos\obj\Debug\net7.0\Archivos.genruntimeconfig.cache
+C:\UPC\AngelSoto_Programaci-n\Archivos\obj\Debug\net7.0\ref\Archivos.dll

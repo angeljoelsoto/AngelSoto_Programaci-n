@@ -1,0 +1,14 @@
+C:\UPC\AngelSoto_Programaci-n\Expeciones Errores\bin\Debug\net7.0\Expeciones Errores.exe
+C:\UPC\AngelSoto_Programaci-n\Expeciones Errores\bin\Debug\net7.0\Expeciones Errores.deps.json
+C:\UPC\AngelSoto_Programaci-n\Expeciones Errores\bin\Debug\net7.0\Expeciones Errores.runtimeconfig.json
+C:\UPC\AngelSoto_Programaci-n\Expeciones Errores\bin\Debug\net7.0\Expeciones Errores.dll
+C:\UPC\AngelSoto_Programaci-n\Expeciones Errores\bin\Debug\net7.0\Expeciones Errores.pdb
+C:\UPC\AngelSoto_Programaci-n\Expeciones Errores\obj\Debug\net7.0\Expeciones Errores.GeneratedMSBuildEditorConfig.editorconfig
+C:\UPC\AngelSoto_Programaci-n\Expeciones Errores\obj\Debug\net7.0\Expeciones Errores.AssemblyInfoInputs.cache
+C:\UPC\AngelSoto_Programaci-n\Expeciones Errores\obj\Debug\net7.0\Expeciones Errores.AssemblyInfo.cs
+C:\UPC\AngelSoto_Programaci-n\Expeciones Errores\obj\Debug\net7.0\Expeciones Errores.csproj.CoreCompileInputs.cache
+C:\UPC\AngelSoto_Programaci-n\Expeciones Errores\obj\Debug\net7.0\Expeciones Errores.dll
+C:\UPC\AngelSoto_Programaci-n\Expeciones Errores\obj\Debug\net7.0\refint\Expeciones Errores.dll
+C:\UPC\AngelSoto_Programaci-n\Expeciones Errores\obj\Debug\net7.0\Expeciones Errores.pdb
+C:\UPC\AngelSoto_Programaci-n\Expeciones Errores\obj\Debug\net7.0\Expeciones Errores.genruntimeconfig.cache
+C:\UPC\AngelSoto_Programaci-n\Expeciones Errores\obj\Debug\net7.0\ref\Expeciones Errores.dll

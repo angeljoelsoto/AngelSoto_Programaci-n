@@ -1,0 +1,14 @@
+C:\UPC\AngelSoto_Programaci-n\Errores\bin\Debug\net7.0\Errores.exe
+C:\UPC\AngelSoto_Programaci-n\Errores\bin\Debug\net7.0\Errores.deps.json
+C:\UPC\AngelSoto_Programaci-n\Errores\bin\Debug\net7.0\Errores.runtimeconfig.json
+C:\UPC\AngelSoto_Programaci-n\Errores\bin\Debug\net7.0\Errores.dll
+C:\UPC\AngelSoto_Programaci-n\Errores\bin\Debug\net7.0\Errores.pdb
+C:\UPC\AngelSoto_Programaci-n\Errores\obj\Debug\net7.0\Errores.GeneratedMSBuildEditorConfig.editorconfig
+C:\UPC\AngelSoto_Programaci-n\Errores\obj\Debug\net7.0\Errores.AssemblyInfoInputs.cache
+C:\UPC\AngelSoto_Programaci-n\Errores\obj\Debug\net7.0\Errores.AssemblyInfo.cs
+C:\UPC\AngelSoto_Programaci-n\Errores\obj\Debug\net7.0\Errores.csproj.CoreCompileInputs.cache
+C:\UPC\AngelSoto_Programaci-n\Errores\obj\Debug\net7.0\Errores.dll
+C:\UPC\AngelSoto_Programaci-n\Errores\obj\Debug\net7.0\refint\Errores.dll
+C:\UPC\AngelSoto_Programaci-n\Errores\obj\Debug\net7.0\Errores.pdb
+C:\UPC\AngelSoto_Programaci-n\Errores\obj\Debug\net7.0\Errores.genruntimeconfig.cache
+C:\UPC\AngelSoto_Programaci-n\Errores\obj\Debug\net7.0\ref\Errores.dll

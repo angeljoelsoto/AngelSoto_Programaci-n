@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\UPC\\AngelSoto_Programaci-n\\Clase1\\Clase1.csproj",
-      "projectName": "Clase1",
-      "projectPath": "C:\\UPC\\AngelSoto_Programaci-n\\Clase1\\Clase1.csproj",
+      "projectUniqueName": "C:\\UPC\\AngelSoto_Programaci-n\\Archivos\\Archivos.csproj",
+      "projectName": "Archivos",
+      "projectPath": "C:\\UPC\\AngelSoto_Programaci-n\\Archivos\\Archivos.csproj",
       "packagesPath": "C:\\Users\\JOEL SOTO\\.nuget\\packages\\",
-      "outputPath": "C:\\UPC\\AngelSoto_Programaci-n\\Clase1\\obj\\",
+      "outputPath": "C:\\UPC\\AngelSoto_Programaci-n\\Archivos\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\JOEL SOTO\\AppData\\Roaming\\NuGet\\NuGet.Config",

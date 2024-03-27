@@ -1,5 +1,14 @@
-﻿// See https://aka.ms/new-console-template for more information
+﻿using System;
 
-Console.WriteLine("Hello, World!" + (2+2) + "es todo facil");
-Console.WriteLine("los chicos se fueron temprano");
+namespace Archivos
+{
 
+    public class Program
+    {
+        static void Main(String[] args)
+        {
+            string ruta = "C:/UPC/AngelSoto_Programaci-n/Archivos";
+        }
+
+    }
+}
